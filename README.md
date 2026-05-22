@@ -107,18 +107,6 @@ I'm a Full Stack Engineer and Computer Science researcher with hands-on experien
 
 ---
 
-## 📊 GitHub stats
-
-<div align="center">
-
-![Ana's GitHub stats](https://github-readme-stats.vercel.app/api?username=anakarla99&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true)
-
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anakarla99&layout=compact&hide_border=true&theme=default&langs_count=8)
-
-</div>
-
----
-
 ## 📫 Get in touch
 
 I'm always open to interesting projects, collaborations, or just a good conversation about algorithms and AI.
