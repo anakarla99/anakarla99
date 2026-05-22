@@ -2,10 +2,10 @@
 
 # Hi, I'm Ana Caballero 👩‍💻
 
-**Software Developer · AI & Simulation · Python · C#**
+**Full Stack Engineer · ML Researcher · Python · TypeScript · C#**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ana_Caballero-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_PROFILE)
-[![Email](https://img.shields.io/badge/Email-contact-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ana_Caballero-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/ana-karla-caballero-84922a15a)
+[![Email](https://img.shields.io/badge/Email-contact-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:caballeroanakarla@gmail.com)
 [![GitHub followers](https://img.shields.io/github/followers/anakarla99?style=flat&label=Followers&color=6E40C9)](https://github.com/anakarla99)
 
 </div>
@@ -14,11 +14,11 @@
 
 ## About me
 
-I'm a software developer with a strong focus on **artificial intelligence, simulation systems, and algorithms**. I enjoy building solutions that model real-world complexity — from multi-agent urban simulations to combinatorial optimization problems.
+I'm a Full Stack Engineer and Computer Science researcher with hands-on experience building scalable web applications and production-grade machine learning systems — from React/TypeScript frontends and Python/.NET backends to deep learning pipelines for medical and satellite imagery.
 
-- 🔭 Currently working on AI-driven simulation and agent-based systems
-- 🧠 Interested in metaheuristics, AI planning, and graph algorithms
-- 🌍 Based in Havana, Cuba
+- 🔭 Currently pursuing an M.Sc. in Data Processing at Harbour.Space University (Barcelona)
+- 🧠 Interested in ML, metaheuristics, AI planning, and graph algorithms
+- 🌍 Based in Barcelona, Spain
 - 🤝 Open to collaboration and new opportunities
 
 ---
@@ -28,20 +28,33 @@ I'm a software developer with a strong focus on **artificial intelligence, simul
 **Languages**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-512BD4?style=flat&logo=dotnet&logoColor=white)
+![Haskell](https://img.shields.io/badge/Haskell-5D4F85?style=flat&logo=haskell&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
 
-**AI & Algorithms**
+**ML & Data Science**
 
-![Agents](https://img.shields.io/badge/Multi--Agent_Systems-1D9E75?style=flat)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
 ![Metaheuristics](https://img.shields.io/badge/Metaheuristics_(ACO,_SA)-1D9E75?style=flat)
 ![AI Planning](https://img.shields.io/badge/AI_Planning-1D9E75?style=flat)
 ![Graph Algorithms](https://img.shields.io/badge/Graph_Algorithms-1D9E75?style=flat)
 
-**Tools & Libraries**
+**Frontend**
 
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat&logo=redux&logoColor=white)
+![Blazor](https://img.shields.io/badge/Blazor-512BD4?style=flat&logo=dotnet&logoColor=white)
+
+**Backend & Infra**
+
+![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat&logo=dotnet&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![OpenStreetMap](https://img.shields.io/badge/OpenStreetMap-7EBC6F?style=flat&logo=openstreetmap&logoColor=white)
-![Pyrosm](https://img.shields.io/badge/Pyrosm-3776AB?style=flat&logo=python&logoColor=white)
 
 ---
 
@@ -56,6 +69,20 @@ I'm a software developer with a strong focus on **artificial intelligence, simul
 - Integrated real geospatial data via **OpenStreetMap + Pyrosm** and demographic data from ONEI Cuba
 
 `Python` `Multi-agent` `ACO` `Simulated Annealing` `AI Planning` `OpenStreetMap`
+
+---
+
+### 🧬 ML Thesis — Skin Lesion Metadata Segmentation
+> Designed and trained deep learning models (PyTorch) to automatically extract structured metadata from dermoscopic image datasets, supporting medical diagnostics pipelines. University of Havana, Honours.
+
+`PyTorch` `Image Segmentation` `Deep Learning` `Medical Imaging`
+
+---
+
+### 🛰 ML — Satellite Image Segmentation
+> End-to-end pipeline to segment tree coverage in Cuba from satellite imagery using Scikit-Learn and PyTorch, including data preprocessing, model selection, and large-scale evaluation.
+
+`PyTorch` `Scikit-Learn` `Computer Vision` `Remote Sensing`
 
 ---
 
@@ -84,9 +111,9 @@ I'm a software developer with a strong focus on **artificial intelligence, simul
 
 <div align="center">
 
-![Ana's GitHub stats](https://github-readme-stats.vercel.app/api?username=anakarla99&show_icons=true&theme=default&hide_border=true&count_private=true)
+![Ana's GitHub stats](https://github-readme-stats.vercel.app/api?username=anakarla99&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true)
 
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anakarla99&layout=compact&hide_border=true&theme=default)
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anakarla99&layout=compact&hide_border=true&theme=default&langs_count=8)
 
 </div>
 
@@ -96,8 +123,8 @@ I'm a software developer with a strong focus on **artificial intelligence, simul
 
 I'm always open to interesting projects, collaborations, or just a good conversation about algorithms and AI.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_PROFILE)
-[![Email](https://img.shields.io/badge/Send_me_an_email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/ana-karla-caballero-84922a15a)
+[![Email](https://img.shields.io/badge/Send_me_an_email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:caballeroanakarla@gmail.com)
 
 ---
 
