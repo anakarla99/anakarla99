@@ -58,6 +58,26 @@ I'm a Full Stack Engineer and Computer Science researcher with hands-on experien
 
 ---
 
+## 💼 Experience
+
+**Full Stack Engineer** · [Iberant Solutions S.L.](https://iberant.com) — Barcelona, Spain *(Aug 2025 – Mar 2026)*
+- Built and maintained production web applications using React, TypeScript and .NET
+- Owned frontend architecture and backend API design end-to-end
+
+**Backend Developer** · Enjoy Travel Group — Havana, Cuba *(Jun 2025 – Nov 2025)*
+- Designed server-side logic and relational database schemas for a real-time travel booking platform
+- Developed and secured RESTful APIs consumed by frontends and third-party integrations
+
+**Software Developer** · NUFOR — Cuba *(Jan 2025 – Apr 2025)*
+- Built enterprise automation tools with Python and Django
+- Led RESTful API development and integration with external data providers
+
+**Software Developer** · Aircros — Cuba *(Jan 2024 – Feb 2024)*
+- Developed responsive, component-driven UIs with React and TypeScript
+- Participated in agile sprints and QA cycles
+
+---
+
 ## 🚀 Featured projects
 
 ### 🏙 [Urban Mobility Simulation — Havana](https://github.com/anakarla99/Simulation_IA_Project)
