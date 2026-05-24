@@ -6,7 +6,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ana_Caballero-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/ana-karla-caballero-84922a15a)
 [![Email](https://img.shields.io/badge/Email-contact-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:caballeroanakarla@gmail.com)
-[![GitHub followers](https://img.shields.io/github/followers/anakarla99?style=flat&label=Followers&color=6E40C9)](https://github.com/anakarla99)
 
 </div>
 
