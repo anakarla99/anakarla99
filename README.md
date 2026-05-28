@@ -15,7 +15,7 @@
 
 I'm a Full Stack Engineer and Computer Science researcher with hands-on experience building scalable web applications and production-grade machine learning systems — from React/TypeScript frontends and Python/.NET backends to deep learning pipelines for medical and satellite imagery.
 
-- 🔭 Currently pursuing an M.Sc. in Data Processing at Harbour.Space University (Barcelona)
+- 🔭 Currently pursuing an M.Sc. in Data Science at Harbour.Space University (Barcelona)
 - 🧠 Interested in ML, metaheuristics, AI planning, and graph algorithms
 - 🌍 Based in Barcelona, Spain
 - 🤝 Open to collaboration and new opportunities
