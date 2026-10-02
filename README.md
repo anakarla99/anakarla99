@@ -60,7 +60,7 @@ I'm a Data/AI and Full-Stack Developer with hands-on experience building web app
 
 ## 💼 Experience
 
-**Full Stack Engineer** · [Iberant Solutions S.L.](https://iberant.com) — Barcelona, Spain *(Aug 2025 – Mar 2026)*
+**Full Stack Engineer** · [Iberant Solutions S.L.](https://iberant.com) — Madrid, Spain · Remote from Havana, Cuba *(Aug 2025 – Mar 2026)*
 - Built and maintained production web applications using React, TypeScript and .NET
 - Contributed to frontend architecture and backend API design
 
