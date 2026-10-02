@@ -2,9 +2,10 @@
 
 # Hi, I'm Ana Caballero 👩‍💻
 
-**Full Stack Engineer · ML Researcher · Python · TypeScript · C#**
+**Data/AI & Full-Stack Developer · Python · TypeScript · C#/.NET**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ana_Caballero-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/ana-karla-caballero-84922a15a)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-1A1A1A?style=flat)](https://anakarla99.github.io/)
 [![Email](https://img.shields.io/badge/Email-contact-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:caballeroanakarla@gmail.com)
 
 </div>
@@ -13,12 +14,12 @@
 
 ## About me
 
-I'm a Full Stack Engineer and Computer Science researcher with hands-on experience building scalable web applications and production-grade machine learning systems — from React/TypeScript frontends and Python/.NET backends to deep learning pipelines for medical and satellite imagery.
+I'm a Data/AI and Full-Stack Developer with hands-on experience building web applications, Python/.NET backends, data workflows and practical machine-learning projects.
 
 - 🔭 Currently pursuing an M.Sc. in Data Science at Harbour.Space University (Barcelona)
 - 🧠 Interested in ML, metaheuristics, AI planning, and graph algorithms
 - 🌍 Based in Barcelona, Spain
-- 🤝 Open to collaboration and new opportunities
+- 🤝 Open to internships, junior opportunities and collaboration
 
 ---
 
@@ -61,7 +62,7 @@ I'm a Full Stack Engineer and Computer Science researcher with hands-on experien
 
 **Full Stack Engineer** · [Iberant Solutions S.L.](https://iberant.com) — Barcelona, Spain *(Aug 2025 – Mar 2026)*
 - Built and maintained production web applications using React, TypeScript and .NET
-- Owned frontend architecture and backend API design end-to-end
+- Contributed to frontend architecture and backend API design
 
 **Backend Developer** · Enjoy Travel Group — Havana, Cuba *(Jun 2025 – Nov 2025)*
 - Designed server-side logic and relational database schemas for a real-time travel booking platform
@@ -91,44 +92,37 @@ I'm a Full Stack Engineer and Computer Science researcher with hands-on experien
 
 ---
 
-### 🧬 ML Thesis — Skin Lesion Metadata Segmentation
-> Designed and trained deep learning models (PyTorch) to automatically extract structured metadata from dermoscopic image datasets, supporting medical diagnostics pipelines. University of Havana, Honours.
+### 🔌 [AuctionFlow Integration Lab](https://github.com/anakarla99/auctionflow-integration-lab)
+> A full-stack integration lab that simulates a retail-media API, including typed contracts, correlation, retries and diagnostics.
 
-`PyTorch` `Image Segmentation` `Deep Learning` `Medical Imaging`
-
----
-
-### 🛰 ML — Satellite Image Segmentation
-> End-to-end pipeline to segment tree coverage in Cuba from satellite imagery using Scikit-Learn and PyTorch, including data preprocessing, model selection, and large-scale evaluation.
-
-`PyTorch` `Scikit-Learn` `Computer Vision` `Remote Sensing`
+`React` `TypeScript` `Express` `REST APIs`
 
 ---
 
-### 📐 [Discrete Mathematics — Problem Solver](https://github.com/anakarla99/discrete_maths)
-> Collection of Python solutions for discrete mathematics problems, covering combinatorics and number theory.
+### 🚲 [Responsible Bike-Sharing ML Demo](https://github.com/anakarla99/responsible-bike-sharing-iml-demo)
+> An interpretable machine-learning demo for bike-sharing loss and theft risk scoring, with model evaluation, experiment tracking and a lightweight product interface.
 
-`Python` `Combinatorics` `Number Theory` `Algorithms`
-
----
-
-### 🎮 [Board Game Emulator](https://github.com/anakarla99/Board_Game_Emulator)
-> Board game emulator built in C#.
-
-`C#` `OOP` `Game logic`
+`Python` `Scikit-Learn` `MLflow` `Next.js`
 
 ---
 
-### 🐍 [Snake Game](https://github.com/anakarla99/Snake)
-> Classic Snake game implemented in C# as an introduction to game development and Git workflows.
+### 💹 [Crypto Arbitrage](https://github.com/anakarla99/crypto-arbitrage)
+> A .NET service for collecting market data and evaluating crypto-arbitrage opportunities, built around explicit domain contracts and resilient connectivity.
 
-`C#` `Game Development` `Git`
+`C#` `.NET` `PostgreSQL` `Docker`
+
+---
+
+### ✈️ [Travelette](https://github.com/anakarla99/TravelAgency-Travelette-)
+> A collaborative travel-agency platform with booking flows, administrative features and a REST API layer.
+
+`ASP.NET Core` `Angular` `C#` `REST APIs`
 
 ---
 
 ## 📫 Get in touch
 
-I'm always open to interesting projects, collaborations, or just a good conversation about algorithms and AI.
+I'm open to internships and junior opportunities in Data/AI, backend and full-stack development in Barcelona or remotely.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/ana-karla-caballero-84922a15a)
 [![Email](https://img.shields.io/badge/Send_me_an_email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:caballeroanakarla@gmail.com)
